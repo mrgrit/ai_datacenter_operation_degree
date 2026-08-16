@@ -1,0 +1,10 @@
+{
+  "name": "week04-lab-verify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "4주차 실습 검증 — 타이쿤 정산 공식으로 월 전기·고정비·사용률·여름요금·손익 재현",
+  "scripts": {
+    "verify": "node verify_week04.mjs"
+  }
+}
