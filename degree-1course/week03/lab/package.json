@@ -1,0 +1,10 @@
+{
+  "name": "week03-lab-verify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "3주차 실습 검증 — 타이쿤 모형으로 GPU 랙·CDU·AI 계약 제약·전력밀도·PUE 재현",
+  "scripts": {
+    "verify": "node verify_week03.mjs"
+  }
+}
