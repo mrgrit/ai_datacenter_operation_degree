@@ -1,0 +1,10 @@
+{
+  "name": "week01-lab-verify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "1주차 실습 검증 — 데이터센터 타이쿤 모형(catalog.js/sim.js)으로 교안 수치 재현",
+  "scripts": {
+    "verify": "node verify_week01.mjs"
+  }
+}
