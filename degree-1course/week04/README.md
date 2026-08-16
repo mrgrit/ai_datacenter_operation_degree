@@ -10,6 +10,7 @@
 | [answers.md](answers.md) | 정답·해설 (전 수치 검증 완료) |
 | [lab/verify_week04.mjs](lab/verify_week04.mjs) | 검증 스크립트 (게임 정산 공식으로 재현) |
 | [lab/model/](lab/model/) | 검증용 모형 원본(catalog.js·sim.js·world.js, MIT) |
+| [instructor.md](instructor.md) | **강사 매뉴얼** — 수업 진행·학생 지시·시연·채점·트러블슈팅 |
 
 ## 이번 주 한눈에
 - **개념:** 월 전기요금 = IT × **PUE** × 165 × 720. 고정비(opex)는 부하와 무관.

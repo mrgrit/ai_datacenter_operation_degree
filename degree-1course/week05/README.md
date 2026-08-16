@@ -9,6 +9,7 @@
 | [lab.md](lab.md) | 실습 — NOC 투어 + 첫 고장 대응(ENV-CRAC-01) 채점 실습 |
 | [answers.md](answers.md) | 정답·해설 (만점 증거 예시, 라이브 검증됨) |
 | [lab/verify_week05.sh](lab/verify_week05.sh) | 라이브 검증 스크립트 (시나리오 콘솔 API 전체 루프) |
+| [instructor.md](instructor.md) | **강사 매뉴얼** — 발사·채점 운영, 학생 에이전트 등록·보고 지시, 트러블슈팅 |
 
 ## 이번 주 한눈에
 - **개념:** NOC에서 게이지·경보·로그를 읽고, SLA 두 시계(탐지 5분·조치 15분) 안에 대응한다.

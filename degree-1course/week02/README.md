@@ -9,6 +9,7 @@
 | [answers.md](answers.md) | 정답·해설 (전 수치 검증 완료) |
 | [lab/verify_week02.mjs](lab/verify_week02.mjs) | 검증 스크립트 (게임 실제 모형으로 재현) |
 | [lab/model/](lab/model/) | 검증용 모형 원본(catalog.js·sim.js·world.js, MIT) |
+| [instructor.md](instructor.md) | **강사 매뉴얼** — 수업 진행·학생 지시·시연·채점·트러블슈팅 |
 
 ## 이번 주 한눈에
 - **개념:** 전기는 수전→변압기→UPS→랙을 지난다. 열은 랙→CRAC→냉동기로 빠진다.
