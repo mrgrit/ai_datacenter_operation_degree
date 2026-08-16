@@ -1,0 +1,10 @@
+{
+  "name": "week02-lab-verify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "2주차 실습 검증 — 타이쿤 모형으로 스타터 시설·배치·제열여유·전력경로 재현",
+  "scripts": {
+    "verify": "node verify_week02.mjs"
+  }
+}
